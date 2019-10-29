@@ -1,4 +1,3 @@
-package main;
 // October 15th 2019
 // edu@rawand.dev
 
