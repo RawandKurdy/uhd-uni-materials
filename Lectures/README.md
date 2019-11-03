@@ -9,6 +9,7 @@ Contain code samples that are relevant to practical lectures.
 - Mobile Application
 - Web Programming
 - Algorithm Fundamentals
+- Computer Network
 
 <br>
 > Never Stop Learning!
