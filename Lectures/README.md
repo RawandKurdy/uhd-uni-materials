@@ -10,6 +10,7 @@ Contain code samples that are relevant to practical lectures.
 - Web Programming
 - Algorithm Fundamentals
 - Computer Network
+- Computer Programming Fundamentals
 
 <br>
 > Never Stop Learning!
